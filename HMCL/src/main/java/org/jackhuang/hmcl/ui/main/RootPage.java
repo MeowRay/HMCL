@@ -171,7 +171,7 @@ public class RootPage extends DecoratorAnimatedPage implements DecoratorPage {
                     .add(gameItem)
                     .add(downloadItem)
                     .startCategory(i18n("settings.launcher.general").toUpperCase())
-                    .add(multiplayerItem)
+             //       .add(multiplayerItem)
                     .add(launcherSettingsItem);
 
             // the root page, with the sidebar in left, navigator in center.
